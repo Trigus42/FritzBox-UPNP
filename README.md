@@ -7,8 +7,8 @@ This script uses UPnP to help you manage your FritzBox.
 | `--host` | Overwrite default "fritz.box" | IP or Hostname |
 | `--port` | Overwrite default "49000" | Custom UPNP Port |
 | `--renew` | Reconnect | None |
-| `--getip` | Get connection status as XML | None |
-| `--status` | Returns the public IP | None |
+| `--getip` | Returns the public IP | None |
+| `--status` | Get connection status as XML | None |
 | `--debug` | Prints hostname, IP, port and response message | None |
 &NewLine;
 
